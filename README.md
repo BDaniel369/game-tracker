@@ -1,1 +1,1 @@
-# game-tracker
+# game_tracker
