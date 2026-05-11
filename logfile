@@ -1,0 +1,30 @@
+2026-05-10 21:26:34.823 UTC [12553] LOG:  starting PostgreSQL 16.13 (Ubuntu 16.13-0ubuntu0.24.04.1) on x86_64-pc-linux-gnu, compiled by gcc (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0, 64-bit
+2026-05-10 21:26:34.823 UTC [12553] LOG:  listening on IPv6 address "::1", port 5433
+2026-05-10 21:26:34.824 UTC [12553] LOG:  listening on IPv4 address "127.0.0.1", port 5433
+2026-05-10 21:26:34.830 UTC [12553] FATAL:  could not create lock file "/var/run/postgresql/.s.PGSQL.5433.lock": Permission denied
+2026-05-10 21:26:34.838 UTC [12553] LOG:  database system is shut down
+2026-05-10 21:28:51.554 UTC [13547] LOG:  starting PostgreSQL 16.13 (Ubuntu 16.13-0ubuntu0.24.04.1) on x86_64-pc-linux-gnu, compiled by gcc (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0, 64-bit
+2026-05-10 21:28:51.555 UTC [13547] LOG:  listening on IPv6 address "::1", port 5433
+2026-05-10 21:28:51.555 UTC [13547] LOG:  listening on IPv4 address "127.0.0.1", port 5433
+2026-05-10 21:28:51.557 UTC [13547] FATAL:  could not create lock file "/var/run/postgresql/.s.PGSQL.5433.lock": Permission denied
+2026-05-10 21:28:51.560 UTC [13547] LOG:  database system is shut down
+2026-05-10 21:29:33.717 UTC [13954] LOG:  starting PostgreSQL 16.13 (Ubuntu 16.13-0ubuntu0.24.04.1) on x86_64-pc-linux-gnu, compiled by gcc (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0, 64-bit
+2026-05-10 21:29:33.717 UTC [13954] LOG:  listening on IPv6 address "::1", port 5433
+2026-05-10 21:29:33.717 UTC [13954] LOG:  listening on IPv4 address "127.0.0.1", port 5433
+2026-05-10 21:29:33.719 UTC [13954] FATAL:  could not create lock file "/var/run/postgresql/.s.PGSQL.5433.lock": Permission denied
+2026-05-10 21:29:33.722 UTC [13954] LOG:  database system is shut down
+2026-05-10 21:34:35.400 UTC [16736] LOG:  starting PostgreSQL 16.13 (Ubuntu 16.13-0ubuntu0.24.04.1) on x86_64-pc-linux-gnu, compiled by gcc (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0, 64-bit
+2026-05-10 21:34:35.401 UTC [16736] LOG:  listening on IPv6 address "::1", port 5433
+2026-05-10 21:34:35.401 UTC [16736] LOG:  listening on IPv4 address "127.0.0.1", port 5433
+2026-05-10 21:34:35.404 UTC [16736] FATAL:  could not create lock file "/var/run/postgresql/.s.PGSQL.5433.lock": Permission denied
+2026-05-10 21:34:35.407 UTC [16736] LOG:  database system is shut down
+2026-05-10 21:35:11.731 UTC [17165] LOG:  starting PostgreSQL 16.13 (Ubuntu 16.13-0ubuntu0.24.04.1) on x86_64-pc-linux-gnu, compiled by gcc (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0, 64-bit
+2026-05-10 21:35:11.731 UTC [17165] LOG:  listening on IPv6 address "::1", port 5433
+2026-05-10 21:35:11.731 UTC [17165] LOG:  listening on IPv4 address "127.0.0.1", port 5433
+2026-05-10 21:35:11.734 UTC [17165] FATAL:  could not create lock file "/var/run/postgresql/.s.PGSQL.5433.lock": Permission denied
+2026-05-10 21:35:11.736 UTC [17165] LOG:  database system is shut down
+2026-05-10 21:36:09.318 UTC [17756] LOG:  starting PostgreSQL 16.13 (Ubuntu 16.13-0ubuntu0.24.04.1) on x86_64-pc-linux-gnu, compiled by gcc (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0, 64-bit
+2026-05-10 21:36:09.318 UTC [17756] LOG:  listening on IPv6 address "::1", port 5433
+2026-05-10 21:36:09.318 UTC [17756] LOG:  listening on IPv4 address "127.0.0.1", port 5433
+2026-05-10 21:36:09.320 UTC [17756] FATAL:  could not create lock file "/var/run/postgresql/.s.PGSQL.5433.lock": Permission denied
+2026-05-10 21:36:09.322 UTC [17756] LOG:  database system is shut down
