@@ -16,6 +16,8 @@ Performance Optimization: Includes B-Tree indexes on frequently queried columns 
 1. Database Setup
 Execute the following in your terminal to build the tables and load initial data:
 
+If code is struggling to run run this command then follow the steps below: sudo service postgresql start
+
 Bash
 psql -U postgres -d game_tracker -f schema.sql
 psql -U postgres -d game_tracker -f seed.sql
